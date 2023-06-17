@@ -1,0 +1,33 @@
+{
+  "cpproblems": [
+    {
+      "id": 4,
+      "name": "Astik",
+      "experience": "2",
+      "price": "700",
+      "Type": "jest",
+      "expertise": [
+        "Depression",
+        "Anxiety",
+        "Stress"
+      ],
+      "speaks": "English",
+      "session mode": "Virtual",
+      "slots": 5,
+      "city": "Mumbai",
+      "image": "https://img.freepik.com/free-photo/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair_285396-896.jpg?size=626&ext=jpg"
+    }
+  ],
+  "users": [
+    {
+      "username": "fw15_347",
+      "password": "pass123",
+      "email": "fw15_347@masaischool.com"
+    },
+    {
+      "username": "admin",
+      "password": "admin987",
+      "email": "admin@masaischool.com"
+    }
+  ]
+}
