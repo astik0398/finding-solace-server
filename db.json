@@ -20,11 +20,13 @@
   ],
   "users": [
     {
+      "id": 1,
       "username": "fw15_347",
       "password": "pass123",
       "email": "fw15_347@masaischool.com"
     },
     {
+      "id": 2,
       "username": "admin",
       "password": "admin987",
       "email": "admin@masaischool.com"
